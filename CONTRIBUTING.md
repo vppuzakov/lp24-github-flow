@@ -11,4 +11,3 @@
 
 - poetry
 - pyenv
-- python 3.10

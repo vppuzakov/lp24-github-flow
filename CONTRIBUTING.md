@@ -11,3 +11,4 @@
 
 - poetry
 - pyenv
+- any cpython version
